@@ -1,6 +1,6 @@
 package src.main.java.banking_system;
 
-public class BankAccount {
+public class BankAccount { // Testing Commit from new computer
     // Define atributes: accountNumber; balance; accountType, etc.
 
     // Constructor
